@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "Sources": [
+    {
+      "Packages": [
+        { "PackageIdentifier": "Ditto.Ditto" },
+        { "PackageIdentifier": "Microsoft.Teams" },
+        { "PackageIdentifier": "MongoDB.Compass.Full" },
+        { "PackageIdentifier": "Git.Git" },
+        { "PackageIdentifier": "Fortinet.FortiClientVPN" },
+        { "PackageIdentifier": "CoreyButler.NVMforWindows" },
+        { "PackageIdentifier": "Brave.Brave" },
+        { "PackageIdentifier": "Microsoft.VisualStudioCode" },
+        { "PackageIdentifier": "PuTTY.PuTTY" },
+        { "PackageIdentifier": "Docker.DockerDesktop" },
+        { "PackageIdentifier": "Google.Drive" },
+        { "PackageIdentifier": "dotPDNLLC.paintdotnet" }
+      ]
+    }
+  ]
+}
