@@ -20,8 +20,8 @@
         { "PackageIdentifier": "Microsoft.VisualStudioCode" },
         { "PackageIdentifier": "PuTTY.PuTTY" },
         { "PackageIdentifier": "Docker.DockerDesktop" },
-        { "PackageIdentifier": "Google.Drive" },
-        { "PackageIdentifier": "dotPDNLLC.paintdotnet" }
+        { "PackageIdentifier": "Google.GoogleDrive" },
+        { "PackageIdentifier": "dotPDN.PaintDotNet" }
       ]
     }
   ]
