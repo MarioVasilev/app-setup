@@ -21,7 +21,8 @@
         { "PackageIdentifier": "PuTTY.PuTTY" },
         { "PackageIdentifier": "Docker.DockerDesktop" },
         { "PackageIdentifier": "Google.GoogleDrive" },
-        { "PackageIdentifier": "dotPDN.PaintDotNet" }
+        { "PackageIdentifier": "dotPDN.PaintDotNet" },
+        { "PackageIdentifier": "Spotify.Spotify" }
       ]
     }
   ]
